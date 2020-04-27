@@ -1,21 +1,21 @@
 h1 {
 color: red;
-font-style: italic;
+font-style: normal;
 font-weight: bold;
 text-align: center;
-font-family: cursive;
+font-family: sans-serif;
 }
 h2 {
 color: blue;
-font-style: italic;
+font-style: normal;
 font-weight: bold;
 text-align: center;
-font-family: cursive;
+font-family: sans-serif;
 }
 h3 {
 color: cyan;
-font-style: italic;
+font-style: normal;
 font-weight: bold;
 text-align: center;
-font-family: cursive;
+font-family: sans-serif;
 }
