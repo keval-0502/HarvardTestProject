@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 2px;
+}
+body {
+
+    font-family: sans-serif;
+    background-size:cover;
+    height: 80%;
+    background-position:top center;
+    overflow: hidden;
+    background-image: url(https://cnet4.cbsistatic.com/img/ZYPXI-bi1wdp74Rucri3YLsbjfQ=/940x0/2020/04/14/375013db-6828-4e9f-8994-3984aff2837d/screen-shot-2020-04-14-at-12-05-40-pm.png);
+  }
+ul {
+padding: 0px;
+float:right;
+list-style-type: none;
+margin-top: 10px;;
+}
+ul li {
+display: inline-block;
+}
+ul li a {
+text-decoration: none;
+color: white;
+padding: 5px 20px;
+border: 2px solid transparent;
+margin-top: 0px;
+transition: 0.3s ease;
+}
+ul li a:hover {
+background-color: red;
+color: white;
+}
+ul li.active a {
+  background-color: white;
+  color: black;
+}
+.logo img {
+  float: left;
+  width: 200px;
+  height:auto;
+}
+/*
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 0 0 1.5rem;
+}
+*/
